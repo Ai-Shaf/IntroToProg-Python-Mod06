@@ -4,3 +4,4 @@
 
 [GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+[Assignment 06 Documentation](https://github.com/Ai-Shaf/IntroToProg-Python-Mod06/blob/main/docs/Assignment06.pdf)
